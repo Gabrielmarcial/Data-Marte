@@ -1,5 +1,5 @@
 # __*Data Marte*__
-<img src="cropped-logo_datamarte-2-1024x534.jpg">
+
 
 ---
 
