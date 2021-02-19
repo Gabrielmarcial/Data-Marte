@@ -11,7 +11,7 @@ Artigos:
 Projetos:
 * [Descubra quem sobreviveria ao desastre do Titanic](https://github.com/Gabrielmarcial/Data-Marte/blob/main/Projetos/titanic_blog_(1).ipynb)
 
-* [Deshboard com Stremalit]()
+* [Deshboard com Stremalit](https://github.com/Gabrielmarcial/Data-Marte/tree/main/Projetos/Dashboard%20Com%20Streamlit)
 ---
 Redes Sociais :
 
