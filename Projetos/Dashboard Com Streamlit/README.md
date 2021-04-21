@@ -7,7 +7,7 @@ __*Guia*__
 
 Artigo: 
 
-[Streamlit: Construindo relatórios e dashboard para Data Science em Python]()
+[Streamlit: Construindo relatórios e dashboard para Data Science em Python](https://datamarte.com/?p=717)
 ---
 Redes Sociais :
 
